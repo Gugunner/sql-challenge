@@ -1,6 +1,8 @@
--- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
--- Link to schema: https://app.quickdatabasediagrams.com/#/d/utVdiI
--- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
+-- Data Engineering
+
+-- Use the information you have to create a table schema for each of the six CSV files. Remember to specify data types, primary keys, foreign keys, and other constraints.
+
+-- Import each CSV file into the corresponding SQL table.
 
 -- Conceptual Phase
 -- Logical Phase
